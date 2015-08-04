@@ -1,6 +1,6 @@
 ---
-published: false
-title: A Little "Hello"
+published: true
+title: Post 1
 layout: post
 ---
 test
